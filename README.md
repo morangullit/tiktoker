@@ -7,7 +7,15 @@ A new Flutter project.
 
 Los videos no están incluídos en el repositorio, debido a que son muy pesados y GitHub no lo permite.
 
-Deben crear en la raíz del proyecto la carpeta assets/videos dentro de videos colocar los videos que ustedes deseen.
+Deben crear en la raíz del proyecto la carpeta 
+```
+-assets
+       -videos
+              -1.mp4
+              -2.mp4
+              - Asi sucesivamente
+```
+dentro de videos colocar los videos que ustedes deseen.
 
 Pueden descargar 8 videos de aquí: 
 [Pexels Free Videos](https://www.pexels.com/search/videos/vertical/)
